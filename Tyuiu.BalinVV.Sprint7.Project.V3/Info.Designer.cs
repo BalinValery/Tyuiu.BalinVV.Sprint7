@@ -55,7 +55,7 @@
             this.labelInfo_BVV.Name = "labelInfo_BVV";
             this.labelInfo_BVV.Size = new System.Drawing.Size(818, 148);
             this.labelInfo_BVV.TabIndex = 1;
-            this.labelInfo_BVV.Text = "Разработчик: Исаев.М.А.\r\nГруппа АСОИУБ-23-3";
+            this.labelInfo_BVV.Text = "Разработчик: Балин.В.В.\r\nГруппа СМАРТб-25-1";
             this.labelInfo_BVV.Click += new System.EventHandler(this.labelInfo_BVV_Click);
             // 
             // Info
